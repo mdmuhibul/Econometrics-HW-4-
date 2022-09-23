@@ -14,7 +14,7 @@ ECOB2000
 9.0.3721571
 
 
-#I added "HHINCOME" into the data set. (OWNCOST + RENT, INCTOT + HHINCOME)
+#we added "HHINCOME" into the data set. (OWNCOST + RENT, INCTOT + HHINCOME)
 1.0.3805268
 3.0.3701585
 5.0.3794542
@@ -22,7 +22,7 @@ ECOB2000
 9.0.3895841
 
 
-#Then I added "COSTELEC" into the data set.This is the highest. (OWNCOST + RENT, HHINCOME + COSTELEC)
+#After that, we added "COSTELEC" into the data set.This is the highest. (OWNCOST + RENT, HHINCOME + COSTELEC)
 1 0.788583
 3.0.4919557
 5.0.4749136
